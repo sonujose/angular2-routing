@@ -1,4 +1,4 @@
-# Angular2-quickstart
+# Angular2-quickstart-webpack
 This is a quick start project for angular2. Bundled using webpack
 
 ## Dependencies
