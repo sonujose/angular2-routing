@@ -1,4 +1,4 @@
-# Angular2-quickstart-webpack
+# Angular2-quickstart-systemjs
 This is a quick start project for angular2. using Systemjs
 
 ## Dependencies
