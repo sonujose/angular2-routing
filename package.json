@@ -2,7 +2,7 @@
   "name": "angular-quickstart",
   "version": "1.0.0",
   "scripts": {
-    "start": "webpack && tsc && concurrently \"tsc -w\" \"lite-server\" ",
+    "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
     "lite": "lite-server",
     "tsc": "tsc",
     "tsc:w": "tsc -w"
@@ -36,8 +36,6 @@
     "clean-webpack-plugin": "^0.1.14",
     "concurrently": "^3.0.0",
     "lite-server": "^2.2.2",
-    "typescript": "^2.0.3",
-    "webpack": "^1.13.3",
-    "webpack-dev-server": "^1.16.2"
+    "typescript": "^2.0.3"
   }
 }
