@@ -1,4 +1,16 @@
-.title {
-    font-size: 32px;
+.header {
+    display: flex;
+    font-size: 15px;
     color: #0097ba;
+    background: #333;
+}
+.menu {
+    margin: 20px 7px;
+    border: 1px solid #333;
+    cursor: pointer;
+    font-size: 20px;
+    color: #fff;
+}
+.menu::hover {
+    color: #ddd;
 }
